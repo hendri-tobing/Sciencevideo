@@ -4,9 +4,9 @@ This is a video collection application created with Phoenix, Elixir.
 
 The application is using Oauth/Uberauth Google for authentication user authentication.
 
-It is also using Materializecss for a modern web look-and-feel.
+It is also using Materializecss for a modern web look-and-feel. 
 
-Work is in progress.
+Work is in progress...  
 
 ----------------------------------------------------
 
